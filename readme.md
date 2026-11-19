@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano Clone (ATmega 328P)
 
-motors: 
+motors: N20 6V DC Motor
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: QTR-8A 
 
-batteries:
+batteries: 2x 18650
 
-wireless communication:
+wireless communication: HC-05 clone
 
 distance sensor - motors:
 
